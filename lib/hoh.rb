@@ -43,7 +43,7 @@ def naming_system
   # HoH all the way to Species!
   system = {
     PORTION_1 => {
-
+    }
   }
   system
 end
